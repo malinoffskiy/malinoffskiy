@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "28.07.2004"; // Дата рождения
-var fullname = "Малиновський Олег Олексiйович" // ФИО
+var fullname = "Малиновський Kyiv Олексiйович" // ФИО
 var name = "Олег" // Имя
 
 // Паспорт
